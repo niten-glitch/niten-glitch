@@ -1,16 +1,161 @@
-## Hi there 👋
-
 <!--
-**niten-glitch/niten-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  README for: niten-glitch
+  - Paste this into the README.md of a repo named exactly the same as your GitHub username
+  - Replace any image URLs (GIFs) with your own if you want a custom look
 -->
+
+<h1 align="center">
+  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D1FF&width=700&lines=Hi%2C+I%27m+Niten+%28niten-glitch%29!;Full-stack+Web+Developer+%7C+Open+Source+Enthusiast" />
+</h1>
+
+<p align="center">
+  <a href="https://github.com/niten-glitch">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=niten-glitch&color=blueviolet" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/">
+    <img alt="twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img alt="email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🔭 I build modern **full-stack web apps** and developer tools.
+- 🌱 Currently learning advanced **DRL for perception systems** and edge-cloud integration.
+- 💬 Ask me about **React**, **Node.js**, **TypeScript**, **Docker**, and CI/CD.
+- ⚡ Fun: I love clean UI micro-interactions and performance tuning.
+
+---
+
+## 🔥 Animated Highlights
+
+<!-- Typing animation above + animated GIF below (replace URL with yours if you want) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="cool animation" width="460" />
+</p>
+
+---
+
+## 🛠️ Tech Stack — Web Development & Tools
+
+> Organized by category — copy-paste this section as a skill list anywhere.
+
+### Frontend
+- HTML5, CSS3 (Flexbox, Grid), SASS/SCSS
+- JavaScript (ES6+), TypeScript
+- React (hooks, context, Suspense), Next.js
+- Redux / Zustand / Recoil, React Query
+- Tailwind CSS, Material UI, Chakra UI, Framer Motion
+- Animation: CSS animations, Lottie, GSAP
+
+### Backend
+- Node.js, Express, Fastify
+- TypeScript on backend
+- REST APIs, GraphQL (Apollo)
+- Authentication: JWT, OAuth2
+- Microservices, Serverless (AWS Lambda / Vercel serverless)
+
+### Databases & Storage
+- MongoDB (Atlas), PostgreSQL, MySQL
+- Redis (caching), Elasticsearch
+- Firebase, Supabase, S3 (object storage)
+
+### DevOps & Deployment
+- Docker, Docker Compose
+- Kubernetes (k8s) basics, Helm
+- CI/CD: GitHub Actions, GitLab CI, CircleCI
+- Cloud: AWS (EC2, S3, RDS, Lambda), Vercel, Netlify, Heroku
+- Monitoring: Prometheus, Grafana, Sentry
+
+### Testing & Quality
+- Jest, React Testing Library, Cypress
+- ESLint, Prettier, TypeScript checks
+- Lighthouse (performance), Web Vitals
+
+### Tools & Productivity
+- Git, GitHub (Actions, Packages)
+- VS Code + extensions
+- Postman, Insomnia
+- Figma, Zeplin (design handoff)
+- ngrok, localtunnel
+
+### Misc / Other Helpful Stuff
+- WebSockets, Socket.io
+- WebRTC, Multimedia streaming basics
+- SSR, CSR, SSG strategies
+- Accessibility (a11y), i18n
+- Performance tuning, code-splitting, lazy loading
+
+---
+
+## 💼 Tools & IDE Plugins
+- Docker, Kubernetes CLI, Terraform (basics)
+- VS Code: Prettier, ESLint, GitLens, Live Server
+- Browser DevTools, Lighthouse CI
+- Postman, DBeaver, Robo 3T
+
+---
+
+## 🚀 Projects (suggested entries)
+- **Realtime Chat App** — React + Node + Socket.io + Redis (presence & rooms)
+- **E-commerce PWA** — Next.js + Stripe + PostgreSQL + Docker
+- **DevOps Demo** — CI/CD pipeline with GitHub Actions + Docker image deploy to AWS ECS
+
+*(Add project links and short descriptions for each project in your repo list.)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img alt="niten-glitch's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niten-glitch&show_icons=true&title_color=00D1FF&icon_color=00D1FF&text_color=7A7A7A&bg_color=0,0,0,0" />
+  &nbsp;
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niten-glitch&hide=Jupyter%20Notebook&layout=compact&title_color=00D1FF&text_color=7A7A7A&bg_color=0,0,0,0" />
+</p>
+
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niten-glitch&date_format=%5BY%5D-%5Bm%5D-%5Bd%5D" />
+</p>
+
+---
+
+## 📈 Contributions & Activity
+
+<!-- Activity / contribution graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=niten-glitch&theme=react-dark&area=true" alt="Contribution Graph" width="800"/>
+</p>
+
+> Tip: GitHub's native contributions calendar shows on your profile — these images are complementary and dynamically generated by community services.
+
+---
+
+## ✨ How to Customize
+1. Replace `niten-glitch` with your GitHub username where needed (if different).
+2. Swap the GIF and typing-svg URL to your preferred animation or a personal avatar GIF.
+3. Edit the tech stack bullets to reflect your strongest skills first.
+4. Add project links under *Projects* with short descriptions and demo/screenshot links.
+5. If you want to highlight certifications, add a "Certifications" section.
+
+---
+
+## 📫 Get in touch
+- Email: `your-email@example.com` (replace)
+- LinkedIn: `https://www.linkedin.com/in/yourprofile` (replace)
+- Twitter: `https://twitter.com/yourhandle` (replace)
+
+---
+
+> If you want, I can:
+> - generate a compact **one-column** or **two-column** variant,
+> - produce a lighter **developer portfolio** README (with project cards),
+> - or create a matching `profile-README` GIF (custom animation) in your Mahabharata/ancient-Indian theme.
+
+---
+
+*Made with ❤️ for `niten-glitch` — paste, tweak, and own it!*
